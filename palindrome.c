@@ -20,6 +20,7 @@ printf("\nthe sum of the digits is %d",sum);
 return 0;
 }
 
+
 #output :
 enter the numbers134
 
