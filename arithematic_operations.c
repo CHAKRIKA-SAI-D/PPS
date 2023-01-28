@@ -11,6 +11,7 @@ printf("the remainder when divided the two numbers is %d",num1%num2);
 return;
 }
 
+
 # output :
 enter two numbers: 2
 2
