@@ -12,6 +12,7 @@ printf("the simple interest is %lf and compound  interest is %lf",simple_interes
 return 0;
 }
 
+
 #output : 
 enter the principle amount(p) : 10
 time and rate in percent2
