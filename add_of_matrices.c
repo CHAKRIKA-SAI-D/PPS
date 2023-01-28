@@ -36,6 +36,7 @@ printf("\n");
 return;
 }
 
+
 # output : 
 enter the size of array : 2
 enter the elements : 2
