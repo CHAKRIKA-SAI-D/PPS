@@ -20,3 +20,7 @@ printf("enter the marks between 0 and 100 ");
 }
 return 0;
 }
+
+# output :
+enter the marks 100
+distinction
