@@ -29,3 +29,14 @@ printf("\n");
 }
 return;
 }
+
+
+#output : 
+enter the size of rows and columns : 2
+2
+enter the elements : 1
+2
+3
+4
+    1    3
+    2    4
