@@ -35,3 +35,16 @@ printf("\n");
 }
 return;
 }
+
+# output : 
+enter the size of array : 2
+enter the elements : 2
+2
+2
+2
+enter the elements : 1
+1
+1
+1
+    3    3
+    3    3
