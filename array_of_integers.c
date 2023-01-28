@@ -23,7 +23,17 @@ for(int i=0;i<n;i++){
 sum=sum+a[i];
 }
 avg=sum/n;
-printf("%d\n%d\n%d",max,min,avg);
+printf("max is : %d\n min is : %d\n average is : %d",max,min,avg);
 return 0;
 }
 
+# output :
+enter the size of array : 5
+1
+2
+3
+4
+5
+max is : 5
+ min is : 1
+ average is : 3
