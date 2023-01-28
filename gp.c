@@ -12,6 +12,7 @@ i=i+1;
 return 0;
 }
 
+
 # output : 
 enter the number n and power x:5
 3
