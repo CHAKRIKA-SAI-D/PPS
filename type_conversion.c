@@ -13,6 +13,7 @@ printf("the character is %c",num);
 return 0;
 }
 
+
 # output : 
 enter the numbers n and n197
 100
