@@ -27,6 +27,7 @@ printf("max is : %d\n min is : %d\n average is : %d",max,min,avg);
 return 0;
 }
 
+
 # output :
 enter the size of array : 5
 1
