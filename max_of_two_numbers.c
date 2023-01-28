@@ -8,6 +8,8 @@ printf("max is %d",max);
 return 0;
 }
 
+
+#output:
 enter the numbers : 10
 19
 max is 19
