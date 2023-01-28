@@ -11,3 +11,9 @@ compound_interest =p*pow((1+r/100),t);
 printf("the simple interest is %lf and compound  interest is %lf",simple_interest,compound_interest);
 return 0;
 }
+
+#output : 
+enter the principle amount(p) : 10
+time and rate in percent2
+100
+the simple interest is 20.000000 and compound  interest is 40.000000
