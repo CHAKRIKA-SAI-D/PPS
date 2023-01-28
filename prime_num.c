@@ -13,6 +13,7 @@ printf("prime number!!");
 return 0;
 } 
 
+
 #output :
 enter the number : 5
 prime number!!
