@@ -15,6 +15,7 @@ b=c;
 return 0;
 }
 
+
 # output : 
 enter the number : 5
 0
