@@ -13,6 +13,7 @@ printf("%c\n",ch);
 return;
 }
 
+
 # output :
 100
 10000
