@@ -20,3 +20,11 @@ printf("\nthe sum of the digits is %d",sum);
 return 0;
 }
 
+#output :
+enter the numbers134
+
+rev 4
+rev 43
+rev 431
+it is not polindrome
+the sum of the digits is 8
